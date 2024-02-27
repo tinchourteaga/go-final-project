@@ -1,4 +1,4 @@
-module github.com/extmatperez/meli_bootcamp_go_w6-2
+module github.com/tinchourteaga/go-final-project
 
 go 1.17
 
